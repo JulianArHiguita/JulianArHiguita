@@ -6,7 +6,7 @@
 
 ## Mi Trayectoria.
 - Bachiller Técnico en Desarrollo de software.
-- [Nombre del Proyecto 2](enlace): Breve descripción o una línea sobre el proyecto.
+- Tecnologo en Analisis y Desarrollo en Sistemas de Información.
 - [Nombre del Proyecto 3](enlace): Breve descripción o una línea sobre el proyecto.
 
 ## Mis Proyectos Destacados
