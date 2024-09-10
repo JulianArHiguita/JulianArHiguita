@@ -32,7 +32,7 @@
 
 - LinkedIn: [Julian Arboleda Higuita](https://www.linkedin.com/in/julian-arboleda-higuita-7324ab1b4/)
 - Twitter: [@TuNombreDeUsuario](enlace)
-- Sitio Web: [Tu Sitio Web](enlace)
+- Sitio Web: [CV JULIAN ARBOLEDA HIGUITA](https://julianarhiguita.github.io/CV/)
 
 ¡No dudes en contactarme para colaboraciones, preguntas o simplemente para charlar sobre tecnología!
 
