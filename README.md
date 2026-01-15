@@ -17,13 +17,9 @@
 - SQL
 - Python
 - Node JS
-
-## Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JulianArHiguita&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianArHiguita&layout=compact)
-
-
+- Java
+- N8N
+  
 ## Contacto
 
 - LinkedIn: [Julian Arboleda Higuita](https://www.linkedin.com/in/julian-arboleda-higuita-7324ab1b4/)
