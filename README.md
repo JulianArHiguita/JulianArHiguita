@@ -8,8 +8,8 @@
 
 ## Mis Proyectos Destacados
 
-- XAU/USD Dashboard([enlace](https://github.com/JulianArHiguita/xauusddashboard)): Prueba de tecnologias de IA en Google Antigravity
-- Personal Expense Calculator([enlace](https://github.com/JulianArHiguita/personal_expense_calculator)): Calculadora de gastos e ingresos mensuales en python
+- ([XAU/USD Dashboard](https://github.com/JulianArHiguita/xauusddashboard)): Prueba de tecnologias de IA en Google Antigravity
+- ([Personal Expense Calculator](https://github.com/JulianArHiguita/personal_expense_calculator)): Calculadora de gastos e ingresos mensuales en python
 
 ## Tecnologías que Domino
 
